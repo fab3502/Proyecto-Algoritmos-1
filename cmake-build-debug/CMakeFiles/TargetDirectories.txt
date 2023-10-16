@@ -1,0 +1,3 @@
+C:/Users/fano2/OneDrive - Estudiantes ITCR/Algoritmos/Proyecto/cmake-build-debug/CMakeFiles/Proyecto.dir
+C:/Users/fano2/OneDrive - Estudiantes ITCR/Algoritmos/Proyecto/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/fano2/OneDrive - Estudiantes ITCR/Algoritmos/Proyecto/cmake-build-debug/CMakeFiles/rebuild_cache.dir
